@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ]
+  ],
+  "legacy_uid": "de7727fa-f0ce-9423-23b0-5c68dbc17146",
+  "instructors": {
+    "content": [
+      "dbdcb54d-58af-6ac7-ed89-73086fa9e82f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d0e8a576-881c-7d6b-944b-3d2c78a5515e",
+    "website": "8-851-effective-field-theory-spring-2013"
+  },
+  "course_title": "Effective Field Theory",
+  "hide_download": true,
+  "course_description": "Effective field theory is a fundamental framework to describe physical systems with quantum field theory. Part I of this course covers common tools used in effective theories. Part II is an in depth study of the Soft-Collinear Effective Theory (SCET), an effective theory for hard interactions in collider physics.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.851",
+  "course_image_thumbnail": {
+    "content": "017ba7b3-da5b-b3e8-694b-5c3d747b9ed7",
+    "website": "8-851-effective-field-theory-spring-2013"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Problem Sets",
+    "Projects"
+  ],
+  "site_uid": "517b2091-adda-4177-b146-5fbe02cdcb78",
+  "site_short_id": "8.851-spring-2013",
+  "site_url_path": "courses/8-851-effective-field-theory-spring-2013",
+  "title": "Course Metadata"
+}
