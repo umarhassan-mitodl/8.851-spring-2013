@@ -4,8 +4,6 @@ description: 'This file contains information regarding chapter 8: deep inelastic
 file: /courses/8-851-effective-field-theory-spring-2013/f3268cc5d627ed83e221f88c1b3c4937_MIT8_851S13_DeepInelaScatt.pdf
 file_size: 618338
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

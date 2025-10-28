@@ -4,8 +4,6 @@ description: 'This file contains information regarding chapter 10: SCET II.'
 file: /courses/8-851-effective-field-theory-spring-2013/6cc1695ed771c13f14fecb38b45dc258_MIT8_851S13_SCETII.pdf
 file_size: 480313
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

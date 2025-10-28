@@ -4,8 +4,6 @@ description: 'This file contains information regarding chapter 1: introduction.'
 file: /courses/8-851-effective-field-theory-spring-2013/4de76f1b11bd063bb34119ac948e42df_MIT8_851S13_Introduction.pdf
 file_size: 388778
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

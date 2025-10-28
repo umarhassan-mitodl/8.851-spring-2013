@@ -5,8 +5,6 @@ description: 'This file contains information regarding chapter 2: introduction t
 file: /courses/8-851-effective-field-theory-spring-2013/883b65510cb2c5919620ce06efe3228d_MIT8_851S13_IntroToSCET.pdf
 file_size: 654937
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

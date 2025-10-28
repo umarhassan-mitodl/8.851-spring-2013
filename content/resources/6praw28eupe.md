@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-851-effective-field-theory-spring-2013/4366b9723b5001bb7297c8e24b20571a_6PrAW28eUpE.srt
 file_size: 95943
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

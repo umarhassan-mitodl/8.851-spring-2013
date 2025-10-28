@@ -4,8 +4,6 @@ description: 'This file contains information regarding chapter 5: symmetries of 
 file: /courses/8-851-effective-field-theory-spring-2013/366ec7eb7c31fd1b75c13d6837bdb04d_MIT8_851S13_SymmetOfSCET.pdf
 file_size: 613255
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

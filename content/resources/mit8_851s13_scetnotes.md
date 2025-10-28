@@ -4,8 +4,6 @@ description: This file contains information regarding full set of notes.
 file: /courses/8-851-effective-field-theory-spring-2013/e42f16669e30d209bfdd377646b745a3_MIT8_851S13_scetnotes.pdf
 file_size: 1742321
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: 'This file contains information regarding chapter 9: Dijet Producti
 file: /courses/8-851-effective-field-theory-spring-2013/b7a69aa95f039cb9098fc2164e2cdc4f_MIT8_851S13_DijectProducio.pdf
 file_size: 473338
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

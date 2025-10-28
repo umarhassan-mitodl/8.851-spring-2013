@@ -23,7 +23,6 @@
     "website": "8-851-effective-field-theory-spring-2013"
   },
   "course_title": "Effective Field Theory",
-  "hide_download": true,
   "course_description": "Effective field theory is a fundamental framework to describe physical systems with quantum field theory. Part I of this course covers common tools used in effective theories. Part II is an in depth study of the Soft-Collinear Effective Theory (SCET), an effective theory for hard interactions in collider physics.\n",
   "department_numbers": [
     "8"
@@ -34,7 +33,6 @@
     "content": "017ba7b3-da5b-b3e8-694b-5c3d747b9ed7",
     "website": "8-851-effective-field-theory-spring-2013"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",

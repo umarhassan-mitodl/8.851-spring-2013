@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, text and references, homework and presentations,
   and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -39,10 +37,10 @@ Text and References
 
 There is no required textbook. Some of the reading will be taken from the following texts. If you want to buy a book, I suggest _Heavy Quark Physics,_ but note that it will only be useful for \< 20% of the material.
 
-*   Manohar, Aneesh Vasant, and Mark B. Wise. _Heavy Quark Physics_. Cambridge University Press, 2007. ISBN: 9780521037570. \[Preview with [Google Books](http://books.google.com/books?id=codDQK5OQDIC&printsec=frontcover)\]
+*   Manohar, Aneesh Vasant, and Mark B. Wise. _Heavy Quark Physics_. Cambridge University Press, 2007. ISBN: 9780521037570. \[Preview with {{% resource_link "8d569dfe-4ffd-4dbd-bfd5-5f9e5153036c" "Google Books" %}}\]
 *   Donoghue, John F., Eugene Golowich, et al. _Dynamics of the Standard Model_. Cambridge University Press, 1992. ISBN: 9780521362887.
 *   Collins, John C. _Renormalization_. Cambridge University Press, 1984. ISBN: 9780521242615.
-*   Georgi, Howard. _Weak Interactions and Modern Particle Theory_. Benjamin/Cummings Pub. Co, 1984. ISBN: 9780805331639. Also [available online](http://www.people.fas.harvard.edu/%7Ehgeorgi/283.html).
+*   Georgi, Howard. _Weak Interactions and Modern Particle Theory_. Benjamin/Cummings Pub. Co, 1984. ISBN: 9780805331639. Also {{% resource_link "9f0361a1-dd30-4b62-a5b7-071a1e37692f" "available online" %}}.
 *   Ellis, R.  K., W. J. Stirling, et al. _QCD and Collider Physics_. Cambridge University Press, 1996. ISBN: 9780521581899.
 
 My {{% resource_link 7ed94bb4-6e42-9627-2cdb-f812ef69b240 "lecture notes" %}} plus assigned readings will serve as your main sources.

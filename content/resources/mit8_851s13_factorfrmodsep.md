@@ -5,8 +5,6 @@ description: 'This file contains information regarding chapter 6: factorization 
 file: /courses/8-851-effective-field-theory-spring-2013/b2b8f3d261ab88e3c50e08fab619450c_MIT8_851S13_FactorFrModSep.pdf
 file_size: 623370
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

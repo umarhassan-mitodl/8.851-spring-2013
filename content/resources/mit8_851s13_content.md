@@ -5,8 +5,6 @@ description: This file contains information regarding front matter, including ta
 file: /courses/8-851-effective-field-theory-spring-2013/0e45a63c276db9bd13f1c16cea39b796_MIT8_851S13_Content.pdf
 file_size: 475258
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

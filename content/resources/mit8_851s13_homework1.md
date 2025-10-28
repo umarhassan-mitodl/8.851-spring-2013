@@ -4,8 +4,6 @@ description: This file contains information regarding homework 1.
 file: /courses/8-851-effective-field-theory-spring-2013/7734f60f47ca399b1266bb45b10ca591_MIT8_851S13_homework1.pdf
 file_size: 114008
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

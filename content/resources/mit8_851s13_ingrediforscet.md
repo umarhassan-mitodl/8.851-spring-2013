@@ -5,8 +5,6 @@ description: 'This file contains information regarding chapter 3: ingredients fo
 file: /courses/8-851-effective-field-theory-spring-2013/55e3755fdf069fc9662217e8e036499e_MIT8_851S13_IngrediForScet.pdf
 file_size: 642316
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
